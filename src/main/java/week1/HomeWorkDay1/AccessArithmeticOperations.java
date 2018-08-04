@@ -4,10 +4,10 @@ class AccessArithmeticOperations
 {
 	public static void main(String[] args)
 	{
-		ArithmeticOperations Ao = new ArithmeticOperations();
+		AccessArithmeticOperations Ao = new AccessArithmeticOperations();
 		
 		Ao.addition();
-		Ao.multiply();
+		Ao.multiply();//Commentby UV
 		Ao.subtract();
 		Ao.multiplyNoByTwo();
 		Ao.divideNoByTwo();
