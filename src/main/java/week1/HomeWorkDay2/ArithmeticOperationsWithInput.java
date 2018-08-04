@@ -23,7 +23,6 @@ public class ArithmeticOperationsWithInput
 	public static void subtract(int numberone, int numbertwo) 
 	{
 		//Conditional or Relational operators
-		//Removed the Comment
 		
 		System.out.println("\n Diference of Two Number : \n");
 		if (numberone >= numbertwo)

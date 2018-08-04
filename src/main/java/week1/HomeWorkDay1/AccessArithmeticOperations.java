@@ -4,13 +4,12 @@ class AccessArithmeticOperations
 {
 	public static void main(String[] args)
 	{
-		AccessArithmeticOperations Ao = new AccessArithmeticOperations();
+		ArithmeticOperations Ao = new ArithmeticOperations();
 		
 		Ao.addition();
-		Ao.multiply();//Comment by UV
+		Ao.multiply();
 		Ao.subtract();
 		Ao.multiplyNoByTwo();
 		Ao.divideNoByTwo();
-		Ao.Remainder();//created new method
 	}
 }
