@@ -7,9 +7,10 @@ class AccessArithmeticOperations
 		AccessArithmeticOperations Ao = new AccessArithmeticOperations();
 		
 		Ao.addition();
-		Ao.multiply();//Commentby UV
+		Ao.multiply();//Comment by UV
 		Ao.subtract();
 		Ao.multiplyNoByTwo();
 		Ao.divideNoByTwo();
+		Ao.Remainder();//created new method
 	}
 }
